@@ -15,6 +15,8 @@ https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/58J4bjq/yoltv.jpg" group-title="|TR| HABER/2",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg" group-title="|TR| HABER",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="|TR| HABER/1",TV 100
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
@@ -56,20 +58,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="|TR| HABER/1",EKO TÜRK
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="|TR| HABER/1",NTV (backup)
-https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="|TR| HABER/1",24 (backup)
-http://iptvmasterlink.dyndns.org:8080/Entry/24hd_yeni/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/PGjZ9JB/tgrthab.png" group-title="|TR| HABER/1",TGRT HABER (backup)
-https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cyQZ2vJ/bloomberght.png" group-title="|TR| HABER/1",BLOOMBERG HT (backup)
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cyQZ2vJ/bloomberght.png" group-title="|TR| HABER/1",BLOOMBERG HT (backup)
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7k4ndwZ/ulusal.png" group-title="|TR| HABER/2",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7k4ndwZ/ulusal.png" group-title="|TR| HABER/2",ULUSAL KANAL
@@ -78,10 +66,6 @@ http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="|TR| HABER/2",TV 5
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR| HABER/2",ÜLKE
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="|TR| HABER/2",ÜLKE
-http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR| HABER/2",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="|TR| HABER/2",TV NET
@@ -323,8 +307,7 @@ http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_72
 http://yerelmedya.tv:1935/sat7turk/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/0GHmXWB/on4tv.png" group-title="|TR| DIGER/1",ON4 TV
 http://tv.netradyom.com:1935/live/on4/playist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/FX1SqtR/cantv.jpg" group-title="|TR| DIGER/1",CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/jwgqtSB/dosttv.png" group-title="|TR| DIGER/1",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHfxLTn/rehbertv.png" group-title="|TR| DIGER/1",REHBER TV
@@ -471,10 +454,6 @@ https://edge1.socialsmart.tv/caytv/bant1/chunks.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/amlst:cekmekoybeltv/chunklist_w1305163043_b1694720.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",CiFTCi TV
 http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",CiFTCi TV YEDEK
-https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",CiFTCi TV YEDEK2
-http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",CORUM RTV
 https://cdn-corumtv.yayin.com.tr/CorumTV/CorumTV/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",CRI TÜRK
@@ -505,8 +484,6 @@ https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/dimtv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",DRT DENiZLi
 https://broadcasttr.com:446/drt/bant1/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",DRT DENiZLi YEDEK
-http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",DUZCE TV
 https://59cba4d34b678.streamlock.net/canlitv/duzcetv/chunklist_w289914833.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Düzgün TV
@@ -519,8 +496,6 @@ http://185.87.252.44:4343/hls/edessatv.m3u8
 http://frn.rtsp.me/15kLuHtw9ikJlZYyy1x7Uw/1640798822/hls/n3dFNbHs.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",EGE ATURK TV
 http://live.arkumedia.com:1935/egeaturktv/egeaturktv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",EGE ATURK TV YEDEK
-https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",EGE LiVE TV
 https://59cba4d34b678.streamlock.net/canlitv/egelivetv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",EGE TURK TV
@@ -529,8 +504,6 @@ https://iptv.egeturk.tv/iptv/canliyayin/playlist.m3u8
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ER TV MALATYA HD
 https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",ER TV YEDEK
-http://waw1.artiyerelmedya.net:1935/ertv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ERBAA RTV
 https://59cba4d34b678.streamlock.net/canlitv/erttv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",ERCiS TV
@@ -601,12 +574,6 @@ https://yayin.hedeftv.com.tr:4443/hedeftv/smil:auto.smil/chunklist.m3u8
 https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",HUNAT TV KAYSERi
 http://yerelmedya.tv:1935/hunattv/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",HUNAT TV YEDEK
-https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",iCEL TV HD
-https://broadcasttr.com:446/iceltv/bant1/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",iCEL TV YEDEK
-http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",iLK ZiRVE TV HD
 https://59cba4d34b678.streamlock.net/canlitv/zirvetv/chunklist_w1446649505.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",İlke TV
@@ -632,17 +599,6 @@ https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 26
 http://yerelmedya.tv:1935/kanal26/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 3
-http://yerelmedya.tv:1935/kanal3/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL 3 YEDEK
-http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Kanal 33
-http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL 33
-http://broadcasttr.com:1935/kanal33/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL 34
-http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL 34 YEDEK
-https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 38
 https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 5 TR
@@ -651,8 +607,6 @@ https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist_w1139259584.m3u8
 https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 58
 http://yerelmedya.tv:1935/kanal58/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL 58 YEDEK
-https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Kanal 65
 https://waw1.artiyerelmedya.net/kanal65/bant1/chunks.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL 65
@@ -681,8 +635,6 @@ https://59cba4d34b678.streamlock.net/canlitv/kanallikya/chunklist.m3u8
 http://live.arkumedia.com:1935/kanalordutv/kanalordutv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL ORDU HD
 https://5be5d840359c6.streamlock.net/kanalordutv/kanalordutv/chunklist_w1577605454.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KANAL ORDU YEDEK
-http://live.arkumedia.com:1935/kanalordutv/kanalordutv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Kanal Sim
 https://59cba4d34b678.streamlock.net/canlitv/simtv/chunklist_w342311728.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KANAL T KIBRIS
@@ -727,8 +679,6 @@ http://hd9994.4kradyotv.com:26606/olay/olay/playlist.m3u8
 https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KOROGLU TV
 http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",KOROGLU TV YEDEK
-https://broadcasttr.com:446/koroglutv/bant1/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KOY TV
 https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",KTV-KIBRIS TV
@@ -803,8 +753,6 @@ https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
 https://broadcasttr.com:446/kayseriosb/bant1/chunklist_w1586814739.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",OTAG TV
 https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist_w1843270513.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",PAMUKKALE TV YEDEK
-http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/chunklist_w314021017.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",RADYO ESENYURT TV
 https://cdn10-radyoesenyurt.yayin.com.tr/radyoesenyurt/radyoesenyurt/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",RADYO KULUP TV
@@ -841,8 +789,6 @@ http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
 https://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_tv1/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",SUN RTV MERSiN
 http://yerelmedya.tv:1935/sunrtv/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",SUN RTV YEDEK
-https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Super 7 TV
 https://tv170.ozelip.com:1936/super/super/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Süper TV
@@ -851,16 +797,12 @@ https://59cba4d34b678.streamlock.net/canlitv/superkanal/chunklist_w2046293538.m3
 https://lives2.canlitv.center/tarimmturk.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Tarım TV
 https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",TARIM TV YEDEK
-https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Tarsus Güney TV
 https://waw1.artiyerelmedya.net/guneytv/bant1/chunks.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TC TV
 http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Tek Rumeli TV
 https://edge1.socialsmart.tv/tekrumelitv/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",TEK RUMELi TV YEDEK
-https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Tempo TV
 http://waw1.artiyerelmedya.net:1935/tempotv/bant1/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TEMPO TV
@@ -905,8 +847,6 @@ http://stream01.tv35.com.tr/hls2/tv35izmir.m3u8
 https://59cba4d34b678.streamlock.net/live/tv38/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV 41 KOCAELi
 http://yerelmedya.tv:1935/tv41/bant1/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",TV 41 YEDEK
-http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV 52
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV AVRUPA
@@ -918,21 +858,9 @@ http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV Kayseri
 https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV MOR
-http://live.arkumedia.com:1935/tvmor/tvmor/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",TV MOR YEDEK
 https://5be5d840359c6.streamlock.net/tvmor/tvmor/chunklist_w363341922.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",TV 500
 https://tv170.ozelip.com:1936/tv500/tv500/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Uluslararası TV
-https://tv170.ozelip.com:1936/uluslar/uluslar/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",Ün TV
-https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",UNiVERSiTE TV
-https://5be5d840359c6.streamlock.net/unitv/unitv/chunklist.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",UR FANATiK TV
-http://yerelmedya.tv:1935/urfanatiktv/bant1/chunks.m3u8
-#EXTINF:0 group-title="|TR| DIGER/2",UR FANATiK TV YEDEK
-https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",USKUDAR UNiV.TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:0 group-title="|TR| DIGER/2",Üsküdar Üniversitesi TV2

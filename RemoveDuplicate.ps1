@@ -1,13 +1,12 @@
 #RemoveDuplicate.ps1
-$file = "/media/mart/windata/devops/ipevtv/tr.m3u"
+$file = "./tr.orginal.m3u"
 
 $content = Get-Content -Path $file
-$csv = $m3u.Split(";")
 
 #$aj = $content -replace "`n" , ";"
 $aj = $content -join ";"
 
-
+#gruppiert link und meta info als eine zeile
 $csvLike = [regex]::matches($aj, '(#EXTINF:0)(.*?)(m3u8;)').value
 
 
@@ -22,6 +21,8 @@ foreach ($line in $csvLike  ) {
     $groupname = $groupname -replace "/2" -replace "/1" -replace '\|TR\| ', '[TR] '
     $groupname
     $line = $line -replace '(?<=title\=\")(.+?)(?=\")', $groupname
+
+    # wenn der sender name schon exisitert, überpringe komplette zeile.
     if ($newContent -match $tvname) {
         "duplicate allready exists"
 
@@ -31,18 +32,18 @@ foreach ($line in $csvLike  ) {
         $newContent += $line
     }
     $newContent.count
-    #$newContent
 
 }
 
 
 
-#<# output new file
+<# output new file
 
-[System.IO.Fileinfo]$newfile = "/media/mart/windata/devops/ipevtv/clean.tr.m3u"
+[System.IO.Fileinfo]$newfile = "./clean.tr.m3u"
 "#EXTM3U" | Set-Content $newfile -Force
 
 $cleanedcontent = $newContent.Split(";") | Where-Object { $_.trim() -ne "" }
 
 $cleanedcontent | Out-File $newfile -Append
+Copy-Item $newfile ./tr.m3u
 #>
