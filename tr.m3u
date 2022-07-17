@@ -17,24 +17,22 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sv3L9N9/haberglobal.jpg" group-title="[TR] HABER",HABER GLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="[TR] GENEL",FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="[TR] GENEL",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="[TR] GENEL",SHOW MAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="[TR] GENEL",FOX
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="[TR] GENEL",STAR
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="[TR] GENEL",SHOW
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PcDpxSH/startr1.png" group-title="[TR] GENEL",STAR
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="[TR] GENEL",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="[TR] GENEL",TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="[TR] GENEL",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="[TR] GENEL",KANAL 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="[TR] GENEL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g9HnGp0/ucankus.jpg" group-title="[TR] GENEL",UCAN KUS
